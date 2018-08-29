@@ -200,9 +200,9 @@ ul,li{
 	padding:8px 36px;
 	line-height:24px;
 	font-size:13px;
-	color:#153e4d;
+	color:black;
 	text-transform:uppercase;
-	background-color:#fde953;
+	background-color:green;
 	border-bottom:2px solid #c6af02;
 	font-weight:700;
 }
